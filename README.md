@@ -6,10 +6,10 @@
 
 A native Rust port of [Google's robots.txt parser and matcher C++ library](https://github.com/google/robotstxt).
 
-- Native Rust port, no third-part crate dependency
+- Native Rust port, no third-party crate dependencies
 - Preserves all behavior of original library
-- Consistent API with original library
-- 100% google original test passed
+- API consistent with original library
+- 100% of Google's original tests pass
 
 ## Installation
 
